@@ -32,4 +32,4 @@ Ada beberapa kasus khusus untuk diambil pengkondisian, yaitu seperti berikut:
 | Update 2       | [2](/Update2/)
 | Update 3       | [3](/Update3/)
 | Update 4       | [4](/Update4/)
-| Update 5       | [Fixxeddd](/Update5/)
+| Update 5       | [Final Project](/Update5/)
