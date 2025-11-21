@@ -2,14 +2,14 @@
 SKINMATE: WEATHER SKINCARE RECOMMENDATION
 
 ### WEBSITE DESCRIPTION
-This dummy website uses Laravel framework. </br> 
+This dummy website uses Laravel framework. <br> 
 The first page displays homepage, which contains information about skincare.<br> 
 The second page contains a form to collect user input. <br> 
 The third page contains product recommendations for the user based on the user's answers on the form. <br> 
-%Dummy website ini menggunakan framework laravel. <br> 
-%Halaman pertama berisi tampilan muka web yang berisi informasi-informasi seputar skincare.
-%Halaman kedua berisi form pengisian untuk mengambil data user input.
-%Halaman ketiga berisi rekomendasi produk untuk user sesuai dengan jawaban user pada form pengisian.
+<!--Dummy website ini menggunakan framework laravel.-->
+<!--Halaman pertama berisi tampilan muka web yang berisi informasi-informasi seputar skincare.-->
+<!--Halaman kedua berisi form pengisian untuk mengambil data user input.-->
+<!--Halaman ketiga berisi rekomendasi produk untuk user sesuai dengan jawaban user pada form pengisian.-->
 
 Beberapa hal yang menjadi parameter pengambilan keputusan adalah sebagai berikut:
 - Lokasi untuk diambil temperatur (dalam satuan celsius) dan UV Index
